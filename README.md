@@ -1,34 +1,24 @@
 # OpenAI API: Image Generation with DALL-E
 This is the repository for the LinkedIn Learning course `OpenAI API: Image Generation with DALL-E`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+![OpenAI API: Image Generation with DALL-E][lil-thumbnail-url] 
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+DALL-E is well-known for its ability to interpret a wide range of text prompts and generate corresponding images. Join instructor Kesha Williams to learn more about DALL-E's enhanced resolution features, access methods, and the art of crafting effective image prompts considering built-in moderation.
 
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
+This course offers a deep dive into real-world applications across various professional industries, including graphic design, advertising, and web development, all of which demonstrate DALL-E's versatility. Kesha guides you through the technical aspects of how to use the Images API, providing insights and practical coding demonstrations along the way. Concluding with a summary and guidance for further exploration in AI-powered image generation, this course is an essential resource for developers, software engineers, and anyone interested in the intersection of AI and creative fields, providing theoretical knowledge and skills to apply DALL-E effectively.
 
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
-
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
-
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+Note: This is an intermediate-level course. Learners should have a fundamental working knowledge of AI and APIs, as well as the ability to read basic Python.
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+### Instructor
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+Kesha Williams
+                            
+_Software Engineering Manager, Speaker, Tech Blogger_
+
+                            
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/kesha-williams).
+
+[lil-course-url]: https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGxFE7zT3GMqg/learning-public-crop_675_1200/0/1705102392664?e=2147483647&v=beta&t=uJAbfU0Ec_64GeMPiGiEriA2Rx5VTY1FCNH38xx9wXs
 
